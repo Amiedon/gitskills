@@ -2,3 +2,4 @@ Git is a distributed version control system
 Git ia free software distributed under GPL
 git some exchanges
 some changes in this file
+this is my computer
